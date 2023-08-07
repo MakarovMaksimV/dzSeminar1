@@ -1,6 +1,8 @@
 ﻿using System;
 
-class SEMINARDZ
+namespace SEMINARDZ
+{
+class Program
 {
     static void Main()
     {
@@ -12,5 +14,9 @@ class SEMINARDZ
     }
 
 }
+    
+}
+
+
 
 

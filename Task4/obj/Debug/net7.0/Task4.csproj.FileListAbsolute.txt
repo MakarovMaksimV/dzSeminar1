@@ -1,0 +1,15 @@
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/bin/Debug/net7.0/Task4
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/bin/Debug/net7.0/Task4.deps.json
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/bin/Debug/net7.0/Task4.dll
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/bin/Debug/net7.0/Task4.pdb
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.dll
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/refint/Task4.dll
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.pdb
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/Users/maksimmakarov/Desktop/SeminarDZ/Task4/obj/Debug/net7.0/ref/Task4.dll
